@@ -9,4 +9,4 @@ puts age
 
 puts age.class
 
-#to_i would make it an interger. to_f would make it a float value. Seperate classes, fixnum and float.
+#to_i would make it an interger. to_f would make it a float value. Separate classes, fixnum and float.
